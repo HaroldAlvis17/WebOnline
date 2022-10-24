@@ -1,0 +1,131 @@
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+
+body{
+
+	background: #e8e8e8;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+
+}
+
+.form-register{
+
+	width: 1000px;
+	background: white;
+	padding: 50px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color:black;
+	box-shadow: 7px 13px 37px white;
+}
+.form-register h4{
+	font-size: 35px;
+	margin-bottom: 20px;
+	text-align: center;
+
+	
+
+
+}
+
+.form-register h5{
+	
+	font-size: 25px;
+	margin-bottom: 16px;
+	
+
+}
+.controls{
+
+	width: 100%;
+	background: white;
+	padding: 10px;
+	margin-bottom: 16px;
+	border: 1px solid black;
+	font-family: 'calib';
+	font-size: 18px;
+
+
+}
+
+
+.campos{
+	
+	width: 200%;
+margin-bottom: 80px;
+font-family: 'calibri';
+	color:black;
+
+font-size: 20px;
+margin:7px ;
+}
+
+.marcas{
+
+width: 100%;
+margin-bottom: 30px;
+width: 100%;
+margin: 5px;
+	
+}
+
+
+.form-register a:hover {
+	color: white;
+	text-decoration: underline;
+
+}
+
+.form-register  .botons {
+	width: 10%;
+	background: #1a2537;
+    border:  none;
+    padding: 10px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+	float: left;
+	margin-right: 50px;
+	
+
+
+}
+
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	
+	
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 30px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: grey;
+}
+
+
+
+
